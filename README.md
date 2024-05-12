@@ -1,5 +1,5 @@
- <H3>NAME : Bairav Skandan Loha</H3>
-<H3>REGISTER NO.: 212221230010</H3>
+ <H3>NAME : M.Shyam Naveen Raj</H3>
+<H3>REGISTER NO.: 212221230099</H3>
 <H3>EX. NO.8</H3>
 <H3>DATE:27-04-2024</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
